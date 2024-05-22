@@ -15,7 +15,8 @@ export class AppComponent {
 
   downloadCV(): void {
     // Replace 'path_to_your_pdf' with the actual path to your PDF file
-    const pdfUrl = 'https://drive.google.com/file/d/1f8twuMSZ_xMiqAd_vz2uXJElH04pGDlw/view?usp=sharing';
+    const pdfUrl = 'https://drive.google.com/file/d/1Z5YUwIh9ofmDHsOG-_4SdCv0YMYWUPAQ/view?usp=sharing';
+
 
     // Create an anchor element
     const link = document.createElement('a');
